@@ -1,7 +1,9 @@
 ## This code is written in view of completing 
 ## a Peer Assignment for R Programming course 
 ## conducted by Roger D. Peng of Johns Hopkins University
-
+## Version: 1.0
+## Author : afiq
+## Date  : 28/04/2014
 ## Matrix inversion is usually a costly computation and their may be 
 ## some benefit to caching the inverse of a matrix rather than compute 
 ## it repeatedly. 
